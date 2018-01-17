@@ -1,0 +1,51 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+li {
+  list-style: none;
+}
+
+.hanoi {
+  display: flex;
+  width: 600px;
+  height: 210px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hanoi ul {
+  width: 100px;
+  border-bottom: 10px solid black;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.none {
+  display: none;
+}
+
+.show {
+  display: block;
+  height: 50px;
+  background-color: green;
+  border-radius: 10px;
+}
+
+.large {
+  width: 100px;
+}
+
+.medium {
+  width: 80px;
+}
+
+.small {
+  width: 60px;
+}

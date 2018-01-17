@@ -1,0 +1,24 @@
+/* PHASE 10: Posts */
+.post a, .post div{
+  float: left;
+}
+
+.post div {
+  width: 540px;
+  margin-left: 20px;
+}
+
+.post h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.content-post {
+  border-top: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.post {
+  margin-top: 20px;
+}
